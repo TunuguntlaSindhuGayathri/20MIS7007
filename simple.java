@@ -1,7 +1,8 @@
 class Simple{  
     public static void main(String args[]){  
+	    int a,b,c;
      System.out.println("Hello Java");
-     System.out.println("first.java");   
+     System.out.println("This is my april-release code")   
     }  
 }  
 //Java Program to demonstate the use of if statement.  
